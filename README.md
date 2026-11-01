@@ -9,7 +9,7 @@ The project from the [Ramekin quick start](https://github.com/ascension-associat
 Try it on your own R76S (flash it as the quick start shows first):
 
 ```sh
-git clone https://github.com/ascension-association/gk-hello-app-example && cd gk-hello-app-example
+git clone https://github.com/ascension-association/ramekin-app-example && cd ramekin-app-example
 ramekin keys generate
 ramekin device claim hello            # finds the device; enter the code on its screen
 ramekin build --no-scan && ramekin push hello --no-scan
