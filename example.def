@@ -1,4 +1,4 @@
-# Apptainer definition file for hello. `ramekin build` builds it for the
+# Apptainer definition file for example. `ramekin build` builds it for the
 # device's platform (see "Converting a Dockerfile or container image" in the
 # Ramekin README for the Dockerfile equivalents).
 Bootstrap: docker

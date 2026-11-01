@@ -1,4 +1,4 @@
-name: hello
+name: example
 # Platform of the target devices. %post in the final stage runs under qemu
 # binfmt when it differs from the workstation; earlier stages run natively.
 platform: linux/arm64
