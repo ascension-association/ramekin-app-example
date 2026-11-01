@@ -16,4 +16,4 @@ ramekin build --no-scan && ramekin push hello --no-scan
 ramekin logs hello -f
 ```
 
-`keys/` holds the project's signing and encryption keys. Only the public ones are committed; `ramekin keys generate` creates your own.
+`keys/` isn't committed: `ramekin keys generate` creates your own signing and encryption keys.

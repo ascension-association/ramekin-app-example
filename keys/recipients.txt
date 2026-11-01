@@ -1,4 +1,0 @@
-# fleet key (keys/fleet.agekey)
-age19qprtp5uajnhtjag0at8vrrvhzd2ce20xgzl6dpxjhtauqnxmgwq3mejqk
-# device hello (claimed)
-age1hlqs076n0nvy2vquwutq9y968y87yvedtdx9ev3unuf3fnrwpfqq7ac4uq
